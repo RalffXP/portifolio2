@@ -1,4 +1,4 @@
-<h1 align="center">Portifólio - Lucyan 💻</h1>
+<h1 align="center">Portifólio - Ralff 💻</h1>
 
 ![Imagem do projeto finalizado](assets/images/projects/portifolio.png)
 
@@ -8,7 +8,7 @@
 
 ## 💻 Sobre
 
-Projeto feito no intuito de me apresentar, como desenvolvedor web front-end.
+Projeto feito no intuito de me apresentar, como desenvolvedor de sistema.
 
 ## 🤯 O site é composto por:
 
